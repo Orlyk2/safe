@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oferta Especial | Compra Hoy</title>
+
+  <!-- Facebook / WhatsApp Preview -->
+  <meta property="og:title" content="🔥 La solución que todos están comprando" />
+  <meta property="og:description" content="No es magia. Es el producto que está resolviendo este problema todos los días." />
+  <meta property="og:image" content="https://via.placeholder.com/1200x630" />
+  <meta property="og:type" content="website" />
+
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box;font-family:Arial,Helvetica,sans-serif}
+    body{background:#0b0b0b;color:#fff;line-height:1.5}
+
+    .container{max-width:1100px;margin:auto;padding:20px}
+
+    header{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;background:radial-gradient(circle at top,#1f2933,#000)}
+
+    h1{font-size:42px;margin-bottom:15px}
+    h1 span{color:#22c55e}
+
+    .subtitle{font-size:20px;color:#cbd5e1;margin-bottom:25px}
+
+    .price-box{margin:25px 0}
+    .old-price{color:#94a3b8;text-decoration:line-through;font-size:18px}
+    .new-price{font-size:36px;color:#22c55e;font-weight:bold}
+
+    .cta{display:inline-block;margin-top:20px;background:#22c55e;color:#022c22;padding:18px 45px;border-radius:14px;font-size:22px;font-weight:bold;text-decoration:none;box-shadow:0 0 30px rgba(34,197,94,.5);transition:.2s}
+    .cta:hover{transform:scale(1.05)}
+
+    .trust{margin-top:15px;font-size:14px;color:#94a3b8}
+
+    section{padding:80px 20px;background:#000}
+
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:30px}
+
+    .box{border:1px solid #1f2933;border-radius:16px;padding:30px;text-align:center;background:#020617}
+    .box h3{color:#22c55e;margin-bottom:10px}
+
+    .urgency{background:#22c55e;color:#022c22;padding:15px;border-radius:12px;font-weight:bold;text-align:center;margin-top:40px}
+
+    footer{text-align:center;padding:30px;color:#64748b;font-size:14px}
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>¿Cansado de <span>perder tiempo y dinero</span>?</h1>
+    <p class="subtitle">Este producto fue creado para personas que quieren una solución rápida, real y sin complicaciones.</p>
+
+    <div class="price-box">
+      <div class="old-price">Antes: $149.000 COP</div>
+      <div class="new-price">Hoy: $99.000 COP</div>
+    </div>
+
+    <a href="https://wa.me/573000000000" class="cta">QUIERO COMPRAR AHORA</a>
+    <div class="trust">✔ Pago contra entrega · ✔ Atención por WhatsApp</div>
+  </div>
+</header>
+
+<section>
+  <div class="container grid">
+    <div class="box">
+      <h3>⚡ Rápido</h3>
+      <p>Lo usas desde el primer día sin configuraciones complicadas.</p>
+    </div>
+    <div class="box">
+      <h3>👌 Simple</h3>
+      <p>Ideal para cualquier persona, incluso si nunca ha usado algo parecido.</p>
+    </div>
+    <div class="box">
+      <h3>🔒 Seguro</h3>
+      <p>Compra directa, sin intermediarios ni riesgos.</p>
+    </div>
+  </div>
+
+  <div class="container urgency">
+    ⏰ Unidades limitadas · Esta oferta puede desaparecer hoy
+  </div>
+  <!-- NUEVAS SECCIONES DE CONVERSIÓN -->
+  <section>
+    <div class="container grid">
+      <div class="box">
+        <h3>🎯 ¿Para quién es?</h3>
+        <p>Ideal para personas que quieren resultados reales sin perder tiempo ni dinero en soluciones que no funcionan.</p>
+      </div>
+      <div class="box">
+        <h3>❌ ¿Qué problema soluciona?</h3>
+        <p>Elimina frustraciones, errores comunes y gastos innecesarios que la mayoría sigue cometiendo.</p>
+      </div>
+      <div class="box">
+        <h3>✅ Beneficio principal</h3>
+        <p>Obtienes una solución clara, práctica y comprobada desde el primer uso.</p>
+      </div>
+    </div>
+
+    <div class="container grid" style="margin-top:40px">
+      <div class="box">
+        <h3>📦 ¿Qué incluye?</h3>
+        <p>Producto completo, listo para usar + soporte directo por WhatsApp.</p>
+      </div>
+      <div class="box">
+        <h3>🔁 Garantía</h3>
+        <p>Si no cumple lo que promete, te ayudamos o te devolvemos el dinero.</p>
+      </div>
+      <div class="box">
+        <h3>🚚 Entrega</h3>
+        <p>Envíos rápidos y seguros. Pago contra entrega disponible.</p>
+      </div>
+    </div>
+
+    <div class="container grid" style="margin-top:40px">
+      <div class="box">
+        <h3>⭐ Testimonio</h3>
+        <p>“No creía que funcionara, pero superó mis expectativas. Lo recomiendo.”</p>
+      </div>
+      <div class="box">
+        <h3>🔥 Diferencial</h3>
+        <p>No es genérico. Está pensado para personas reales con problemas reales.</p>
+      </div>
+      <div class="box">
+        <h3>⏱ Resultados</h3>
+        <p>Desde el primer día notarás el cambio. Sin procesos largos.</p>
+      </div>
+    </div>
+
+    <div class="container urgency" style="margin-top:60px">
+      ⚠️ Atención: quedan pocas unidades disponibles hoy
+    </div>
+  </section>
+
+<footer>
+  © 2026 · Venta directa · Resultados reales
+</footer>
+
+</body>
+</html>
